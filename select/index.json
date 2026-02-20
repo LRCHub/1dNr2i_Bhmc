@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Morning Light",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-20T13:38:20.277225Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cold Morning Light",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/01_Cold_Morning_Light_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Morning Light",
+      "artist": "Concord Dawn",
+      "has_synced": false,
+      "path": "select/02_Morning_Light_Concord_Dawn.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Morning Light",
+      "artist": "Anna Calvi",
+      "has_synced": true,
+      "path": "select/03_Morning_Light_Anna_Calvi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Red Morning Light",
+      "artist": "Kings of Leon",
+      "has_synced": true,
+      "path": "select/04_Red_Morning_Light_Kings_of_Leon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Red Morning Light",
+      "artist": "Kings Of Leon",
+      "has_synced": true,
+      "path": "select/05_Red_Morning_Light_Kings_Of_Leon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Morning Light",
+      "artist": "Girls",
+      "has_synced": true,
+      "path": "select/06_Morning_Light_Girls.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Morning Light",
+      "artist": "Gliss",
+      "has_synced": true,
+      "path": "select/07_Morning_Light_Gliss.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Morning Light",
+      "artist": "Dagoba",
+      "has_synced": false,
+      "path": "select/08_Morning_Light_Dagoba.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cold, Cold Morning Light",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": false,
+      "path": "select/09_Cold,_Cold_Morning_Light_Jerry_Lee_Lewis.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Morning Light",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/10_Morning_Light_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Morning Light",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/11_Morning_Light_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Morning Light",
+      "artist": "Justin Timberlake feat. Alicia Keys",
+      "has_synced": true,
+      "path": "select/12_Morning_Light_Justin_Timberlake_feat._Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Morning Light",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/13_Morning_Light_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rockn' Roll, Morning Light Falls on You",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/14_Rockn'_Roll,_Morning_Light_Falls_on_You_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rockn' Roll, Morning Light Falls on You",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/15_Rockn'_Roll,_Morning_Light_Falls_on_You_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "morning light",
+      "artist": "Smile Empty Soul",
+      "has_synced": false,
+      "path": "select/16_morning_light_Smile_Empty_Soul.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Morning Light",
+      "artist": "Phil Keaggy",
+      "has_synced": false,
+      "path": "select/17_Morning_Light_Phil_Keaggy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Morning Light",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_Morning_Light_Novelbright.txt"
+    }
+  ]
+}
